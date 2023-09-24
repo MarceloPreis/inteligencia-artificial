@@ -1,0 +1,22 @@
+{
+  "name": "inteligencia-artificial",
+  "version": "1.0.0",
+  "description": "Reponsitório para atividades da aula de inteligencia artificial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloPreis/ia.git"
+  },
+  "keywords": [
+    "ia"
+  ],
+  "author": "Marcelo Preis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarceloPreis/ia/issues"
+  },
+  "homepage": "https://github.com/MarceloPreis/ia#readme"
+}
